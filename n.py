@@ -320,4 +320,4 @@ async def set_vps_count(update: Update, context: CallbackContext):
         return ConversationHandler.END
     
     await update.message.reply_text(
-        f"⚠️ Enter number of VPS 
+        f"🔺Enter number of VPS" 
