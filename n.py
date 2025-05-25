@@ -124,9 +124,8 @@ START_IMAGES = [
             '💀 *Bsdk threads ha 100 dalo time 120 dalne ke baad*' + '\n\n'
             '⚠️ *🥰🥰🥰🥰🥰🥰🥰🥰🥰🥰🤬*⚠️' + '\n\n'
             '⚠️ *JOIN CHANNEL @NXTLVLPUBLIC *' + '\n\n'
-        
-    },
-    
+        )
+    }
 ]
 
 # File to store key data
